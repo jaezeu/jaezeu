@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ### Hello, I'm Jazeel! 👋
 
 Building Scalable & Secure Platforms • DevOps & IaC Advocate • Educator
@@ -14,10 +13,10 @@ Building Scalable & Secure Platforms • DevOps & IaC Advocate • Educator
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=16324F&center=true&vCenter=true&width=820&lines=Platform+Engineer+%7C+Cloud+Platforms;DevOps+%7C+IaC+%7C+Automation;Builder+%7C+Educator+%7C+Systems+Thinker" alt="Typing intro" />
 
 <br />
-<br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaezeu&show_icons=true&hide_border=true&title_color=16324F&icon_color=C97B63&text_color=577590&bg_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jaezeu&hide_border=true&ring=C97B63&fire=C97B63&currStreakLabel=16324F&sideLabels=577590&sideNums=577590&dates=8DA9C4&stroke=16324F&background=FFFFFF" alt="GitHub streak" />
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaezeu&show_icons=true&hide_border=true&title_color=16324F&icon_color=C97B63&text_color=577590&bg_color=FFFFFF&rank_icon=github" alt="" /><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaezeu&hide_border=true&ring=C97B63&fire=C97B63&currStreakLabel=16324F&sideLabels=577590&sideNums=577590&dates=8DA9C4&stroke=16324F&background=FFFFFF" alt="" />
+</p>
 
 </div>
 
@@ -52,5 +51,4 @@ Building Scalable & Secure Platforms • DevOps & IaC Advocate • Educator
 
 
 <div align="center">
-	<sub>Minimal stack. Clean systems. Reliable delivery.</sub>
 </div>
