@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### Hello, I'm Jazeel 👋
+### Hello, I'm Jazeel! 👋
 
 Building Scalable & Secure Platforms • DevOps & IaC Advocate • Educator
 
