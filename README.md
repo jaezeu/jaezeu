@@ -7,7 +7,7 @@ Building Scalable & Secure Platforms • DevOps & IaC Advocate • Educator
 <p>
 	<a href="mailto:jazeel.meerasah@gmail.com"><img src="https://img.shields.io/badge/Email-jazeel.meerasah%40gmail.com-16324F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 	<a href="https://github.com/jaezeu"><img src="https://img.shields.io/badge/GitHub-@jaezeu-C97B63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-	<a href="https://www.linkedin.com/in/muhammad-jazeel-bin-meerasah-220009181/"><img src="https://img.shields.io/badge/LinkedIn-Jazeel-577590?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	<a href="https://www.linkedin.com/in/muhammad-jazeel/"><img src="https://img.shields.io/badge/LinkedIn-Jazeel-577590?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=16324F&center=true&vCenter=true&width=820&lines=Platform+Engineer+%7C+Cloud+Platforms;DevOps+%7C+IaC+%7C+Automation;Builder+%7C+Educator+%7C+Systems+Thinker" alt="Typing intro" />
