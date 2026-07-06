@@ -1,0 +1,47 @@
+<svg width="900" height="344" viewBox="0 0 900 344" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="frame"><rect width="900" height="344" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="344" fill="#16324F"/>
+
+    <!-- contour lines, right-weighted -->
+    <g stroke="#577590" stroke-width="1" fill="none" opacity="0.35">
+      <path d="M560 340 C 600 250, 700 240, 760 190 C 810 148, 830 90, 910 70"/>
+      <path d="M600 340 C 640 260, 730 255, 790 205 C 840 163, 860 105, 930 85"/>
+      <path d="M640 340 C 680 272, 760 270, 820 220 C 870 178, 890 122, 950 100"/>
+      <path d="M680 340 C 720 285, 790 285, 850 235 C 900 193, 920 138, 970 118"/>
+      <path d="M720 340 C 760 298, 820 300, 880 252 C 928 210, 948 155, 990 135"/>
+    </g>
+    <g stroke="#8DA9C4" stroke-width="1" fill="none" opacity="0.18">
+      <path d="M520 340 C 560 240, 670 225, 730 175 C 780 132, 800 74, 890 55"/>
+    </g>
+
+    <!-- dot grid, beside plan line -->
+    <g fill="#8DA9C4" opacity="0.22">
+      <circle cx="440" cy="278" r="1.4"/><circle cx="462" cy="278" r="1.4"/><circle cx="484" cy="278" r="1.4"/><circle cx="506" cy="278" r="1.4"/><circle cx="528" cy="278" r="1.4"/>
+      <circle cx="440" cy="296" r="1.4"/><circle cx="462" cy="296" r="1.4"/><circle cx="484" cy="296" r="1.4"/><circle cx="506" cy="296" r="1.4"/>
+      <circle cx="440" cy="314" r="1.4"/><circle cx="462" cy="314" r="1.4"/><circle cx="484" cy="314" r="1.4"/>
+    </g>
+
+    <!-- tracked-out eyebrow -->
+    <text x="48" y="64" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="11" letter-spacing="6" fill="#8DA9C4">SINGAPORE · 1.35°N 103.82°E</text>
+
+    <!-- HCL self-portrait -->
+    <g font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="16">
+      <text x="48" y="110" fill="#C97B63">resource <tspan fill="#EEF2F6">"human"</tspan> <tspan fill="#EEF2F6">"jaz"</tspan> <tspan fill="#8DA9C4">{</tspan></text>
+      <text x="76" y="138" fill="#8DA9C4">role      <tspan fill="#577590">=</tspan> <tspan fill="#EEF2F6">"solutions architecture specialist"</tspan></text>
+      <text x="76" y="164" fill="#8DA9C4">automates <tspan fill="#577590">=</tspan> <tspan fill="#EEF2F6">"anything worth doing twice"</tspan></text>
+      <text x="76" y="190" fill="#8DA9C4">educates  <tspan fill="#577590">=</tspan> <tspan fill="#EEF2F6">"cloud engineering, from design to day-2 ops"</tspan></text>
+      <text x="76" y="216" fill="#8DA9C4">builds    <tspan fill="#577590">=</tspan> <tspan fill="#EEF2F6">"yet another POC (this one's different)"</tspan></text>
+      <text x="76" y="242" fill="#8DA9C4">off_the_clock <tspan fill="#577590">=</tspan> <tspan fill="#EEF2F6">["streetwear", "combat sports", "perfumes"]</tspan></text>
+      <text x="48" y="270" fill="#8DA9C4">}</text>
+    </g>
+
+    <!-- plan line -->
+    <text x="48" y="306" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="13" fill="#577590">Plan: <tspan fill="#C97B63">1 to add</tspan>, 0 to change, 0 to destroy.</text>
+
+    <!-- rust accent tick -->
+    <rect x="48" y="80" width="28" height="2" fill="#C97B63"/>
+  </g>
+</svg>
