@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="hero.svg" alt="resource &quot;human&quot; &quot;jaz&quot; — solutions architecture specialist, cloud engineering educator" width="900"/>
+  <img src="https://raw.githubusercontent.com/jaezeu/jaezeu/main/hero.svg" alt="resource &quot;human&quot; &quot;jaz&quot; — solutions architecture specialist, cloud engineering educator" width="900"/>
 </p>
 <br/>
+
 **now** — Solutions Architecture Specialist. Infrastructure automation is the through-line: helping teams codify, provision, and run their platforms so infrastructure isn't something they think about at 2am.
  
 **teaching** — Cloud engineering education for working professionals: system design, cloud architecture, Terraform, Kubernetes — and the practices around them, from SRE to platform engineering to DevOps. Taught with real clusters, real bills, real breakage.
